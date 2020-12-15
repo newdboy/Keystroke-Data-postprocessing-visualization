@@ -1,5 +1,5 @@
 ## Keystroke-Data-postprocessing-visualization
-Kologger(https://github.com/isingmodel/Kologger)의 자잘한 버그 수정을 위한 후처리기와 시각화 모듈
+Kologger(https://github.com/isingmodel/Kologger) 의 자잘한 버그 수정을 위한 후처리기와 시각화 모듈
 python 3.7 기준으로 작성되었음
 
 # data postprocessor & pausetime grapher
